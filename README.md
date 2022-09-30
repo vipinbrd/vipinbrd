@@ -1,7 +1,7 @@
 <img height="280" width="100%" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <h1 align="center">Hi 👋, I'm vipin</h1>
-<h3 align="center">A passionate Backend developer from bhopal(Madhya pradesh),India.</h3>
+<h3 align="center">Passionate Software Developer with backend development technologies. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinbrd&label=Profile%20views&color=0e75b6&style=flat" alt="vipinbrd" /> </p>
 
