@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinbrd" alt="vipinbrd" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://vipinbarodeportfolio.netlify.app](https://vipinbarodeportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vipinbarodeportfolio.netlify.app)
 
 - 💬 Ask me about **SpringBoot,Hibernate,Microservices,Software Design and Architecture,AWS**
 
