@@ -29,5 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinbrd&show_icons=true&locale=en" alt="vipinbrd" /></p>
 
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vipinbrd&bg_color=radical&area=true" alt="vipinbrd" /></p>
 
 
