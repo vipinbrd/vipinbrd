@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vipinbarode7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aIm-2dTDxDsZEDzhS4WQxzhDULAxVm5Q/view)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!AqGDgwUyFCIVgn9DSBAMLyNvrFhS?e=PhflOl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
